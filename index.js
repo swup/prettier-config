@@ -8,6 +8,7 @@ module.exports = {
     bracketSpacing: true,
     arrowParens: 'always',
     proseWrap: 'always',
+    quoteProps: 'consistent',
 
     overrides: [
         {
