@@ -1,2 +1,5 @@
-# Swup base prettier config
-Get with `npm install @swup/prettier-config`. 
+# Swup Prettier Config
+
+Shared settings for [prettier](https://prettier.io/).
+
+Install with `npm install @swup/prettier-config`
